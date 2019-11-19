@@ -21,6 +21,17 @@
   
   
 
+
+
+
+- Carpeta Validación
+  * En esta carpeta se encuentran los archivos .js, es decir los archivos javascript que se encargan de hacer las validaciones pertinentes para el correcto funcionamiento de la página, en nuestro caso, que se cumplan las validaciones del formulario de registro.
+ 
+<img width="733" alt="Screen Shot 2019-11-19 at 11 43 17" src="https://user-images.githubusercontent.com/11546674/69178131-fe109480-0ad6-11ea-90cb-ddd62421a168.png">
+
+
+
+
 # Galería  
   * Del mismo que la carpeta formulario, esta carpeta contiene 3 subcarpetas en las que se almacena los estilos, validacion y la página principal.
   
