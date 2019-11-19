@@ -16,4 +16,5 @@
     <img width="173" alt="Screen Shot 2019-11-19 at 12 16 27" src="https://user-images.githubusercontent.com/11546674/69170328-e7167600-0ac7-11ea-8fd5-fefa6b86b5e4.png">
 
 * Dentro de la subcarpeta imagenes se encuentran 10 imagenes que serviran para la galeria
+<img width="158" alt="Screen Shot 2019-11-19 at 11 43 38" src="https://user-images.githubusercontent.com/11546674/69176563-f3083500-0ad3-11ea-8591-e57ed67fd863.png">
 
