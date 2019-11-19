@@ -14,3 +14,6 @@
   * Del mismo que la carpeta formulario, esta carpeta contiene 3 subcarpetas en las que se almacena los estilos, validacion y la página principal.
   
     <img width="173" alt="Screen Shot 2019-11-19 at 12 16 27" src="https://user-images.githubusercontent.com/11546674/69170328-e7167600-0ac7-11ea-8fd5-fefa6b86b5e4.png">
+
+* Dentro de la subcarpeta imagenes se encuentran 10 imagenes que serviran para la galeria
+
