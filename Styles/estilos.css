@@ -4,20 +4,15 @@
 body {
   background-color: rgba(206, 253, 243, 0.952); 
 }
-/*#slideshow-containe{
-  max-width: 1000px;
-  position: relative;
-  margin: auto;
-}*/
-.prev, .next {
-
+#anterior, #siguiente {
+  margin: 0px;
   cursor: pointer;
   position: absolute;
   top: 50%;
   width: auto;
   padding: 50px 14px;
   margin-top: -22px;
-  color: rgb(236, 241, 240);
+  color: rgb(29, 230, 2);
   font-weight: bold;
   font-size: 18px;
   transition: 0.6s ease;
@@ -29,23 +24,33 @@ body {
   border: 1px solid orange;
 }
 
-/* Position the "next button" to the right */
-.next {
+
+#siguiente {
   font-size: 30px;
   right: 0;
   border-radius: 5px ;
 
 }
-.prev {
+#anterior {
   font-size: 30px;
   left: 0;
   border-radius: 5px;
 }
 
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
+#anterior:hover, #siguiente:hover {
   font-size: 30px;
   background-color: rgba(0,0,0,0.8);
+}
+#inicio{
+  margin: 0px;
+  text-align: center;
+  margin-left: 45%;
+  float: none;
+  font-size: 30px;
+  border: 2px solid orange;
+  color: red;
+  border-radius: 4px;
+  font-family: fantasy;
 }
 .pie > p{
     bottom: 0%;
@@ -57,11 +62,26 @@ body {
     font-family: fantasy;
     font-weight: bolder;
 }
-.empezarAleatorio > form{
-  bottom: 0%;
-  position: centeire;
-  padding: 0;
-  text-align: center;    
-  font-family: fantasy;
-  font-weight: bolder;
+
+.Formulario{
+padding: 3px;
+border: 3px solid rgb(243, 243, 139);
+
+}
+img {
+  margin:0px;
+  padding: 3px;
+  width: 100%;
+
+}
+label {
+  display: block;
+  margin: 5px;
+}
+#crear, #cancelar{
+  margin: 8px;
+  width:80px
+}
+input {
+  width:200px
 }
