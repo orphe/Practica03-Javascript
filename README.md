@@ -52,6 +52,7 @@
   * Dentro de esta carpeta se especifian los colores, detalles y formas que va a tener la página.
  <img width="173" alt="Screen Shot 2019-11-19 at 12 16 27" src="https://user-images.githubusercontent.com/11546674/69185193-44202500-0ae4-11ea-82c4-53bb45b2ea4f.png">
  
+ <img width="525" alt="Screen Shot 2019-11-19 at 11 43 26" src="https://user-images.githubusercontent.com/11546674/69185207-484c4280-0ae4-11ea-87ed-d8dcdca9f32d.png">
  
  
  
