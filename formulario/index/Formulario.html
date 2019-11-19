@@ -10,7 +10,7 @@
 
 <body>
     <h2>Formulario de registro</h2>
-    <form id="formulario01" method="POST" action="/formulario/index/validacion.php" onsubmit="return validarTodo()">
+    <form id="formulario01" method="POST" onsubmit="return validarTodo()" action="/formulario/index/validacion.php" >
             <label for="cedula">Cedula*</label>
             <input type="text" id="cedula" name="cedula" value=" " placeholder="Ingrese el número de cedula"
              onkeypress="return soloNumeros(event, this.value)", onkeydown= " validarCedula()"/>
