@@ -8,7 +8,18 @@
 <img width="177" alt="Screen Shot 2019-11-19 at 12 16 17" src="https://user-images.githubusercontent.com/11546674/69170322-e5e54900-0ac7-11ea-9487-f2f0bee235da.png">
 
 - Carpeta index
-   * La carpeta index es donde se almacena la pagina en si.
+   * La carpeta index es donde se almacena la pagina en si, es decir su estructura. 
+   
+   
+   
+   * Como se puede observar en la imagen superior, existen 2 archivos, el primero llamado formulario.html y el segundo validacio.php.
+   
+   
+   
+   
+   
+   * Dentro del archivo html se declara un form que contiene toda la información necesaria
+   
 
 - Galería  
   * Del mismo que la carpeta formulario, esta carpeta contiene 3 subcarpetas en las que se almacena los estilos, validacion y la página principal.
@@ -17,4 +28,6 @@
 
 * Dentro de la subcarpeta imagenes se encuentran 10 imagenes que serviran para la galeria
 <img width="158" alt="Screen Shot 2019-11-19 at 11 43 38" src="https://user-images.githubusercontent.com/11546674/69176563-f3083500-0ad3-11ea-8591-e57ed67fd863.png">
+
+* 
 
