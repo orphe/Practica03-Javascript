@@ -46,7 +46,7 @@
 
 - Carpeta Index
  * Aquí se encuentra la estructura de nuestra galería. 
- 
+ <img width="850" alt="Screen Shot 2019-11-19 at 15 47 39" src="https://user-images.githubusercontent.com/11546674/69185191-44202500-0ae4-11ea-95bb-0fbda0787308.png">
  
 - Carpeta Css
   * Dentro de esta carpeta se especifian los colores, detalles y formas que va a tener la página.
@@ -60,6 +60,8 @@
   * En este archivo .js se realizan las validaciones necesarias para que la galeria conste con 5 imagenes aleatorias.
   <img width="617" alt="Screen Shot 2019-11-19 at 12 32 17" src="https://user-images.githubusercontent.com/11546674/69185192-44202500-0ae4-11ea-8df0-695b94b14d39.png">
   
+# Resultados
+ 
   
 
 
