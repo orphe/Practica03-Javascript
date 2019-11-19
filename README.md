@@ -27,6 +27,11 @@
   
 # Resultados
  * A continuación se muestran unas imagenes con los resultados finales de la página.
+ <img width="339" alt="Screen Shot 2019-11-19 at 13 58 43" src="https://user-images.githubusercontent.com/11546674/69179621-d53dce80-0ad9-11ea-857f-a665507b014c.png">
+
+<img width="434" alt="Screen Shot 2019-11-19 at 14 27 05" src="https://user-images.githubusercontent.com/11546674/69179636-da028280-0ad9-11ea-8f68-c5e55152f8b5.png">
+<img width="384" alt="Screen Shot 2019-11-19 at 14 28 28" src="https://user-images.githubusercontent.com/11546674/69179627-d7a02880-0ad9-11ea-8edd-d091adbb9bc4.png">
+
  
 
 
