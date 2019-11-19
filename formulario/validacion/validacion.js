@@ -23,7 +23,7 @@ function validarCedula() {
     }
 
   } else {
-    document.getElementById("mensajeCedula").innerHTML = 'La cedula se esta typiando';
+   document.getElementById("mensajeCedula").innerHTML = 'escribiendo...';
   }
 }
 
@@ -47,6 +47,7 @@ function soloLetras(e) {
   }
   if (letras.indexOf(tecla) == -1 && !tecla_especial) {
     return false;
+
   }
 }
 

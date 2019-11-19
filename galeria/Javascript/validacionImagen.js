@@ -14,7 +14,7 @@ array = [
 { "id": 10, "imagen": "/galeria/Imagenes/fondo10.jpg" }];
 
 function elegir() {
-    for (i = 0; i < 5; i++) {
+    for (i = 0; i <= 5; i++) {
         imagenes[i] = Math.floor(Math.random() * (10));
     }
     posActual = 0;
