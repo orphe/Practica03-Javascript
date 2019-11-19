@@ -44,5 +44,25 @@
 * Dentro de la subcarpeta imagenes se encuentran 10 imagenes que serviran para la galeria
 <img width="158" alt="Screen Shot 2019-11-19 at 11 43 38" src="https://user-images.githubusercontent.com/11546674/69176563-f3083500-0ad3-11ea-8591-e57ed67fd863.png">
 
-* 
+- Carpeta Index
+ * Aquí se encuentra la estructura de nuestra galería. 
+ <img width="850" alt="Screen Shot 2019-11-19 at 15 47 39" src="https://user-images.githubusercontent.com/11546674/69185191-44202500-0ae4-11ea-95bb-0fbda0787308.png">
+ 
+- Carpeta Css
+  * Dentro de esta carpeta se especifian los colores, detalles y formas que va a tener la página.
+ <img width="173" alt="Screen Shot 2019-11-19 at 12 16 27" src="https://user-images.githubusercontent.com/11546674/69185193-44202500-0ae4-11ea-82c4-53bb45b2ea4f.png">
+ 
+ <img width="525" alt="Screen Shot 2019-11-19 at 11 43 26" src="https://user-images.githubusercontent.com/11546674/69185207-484c4280-0ae4-11ea-87ed-d8dcdca9f32d.png">
+ 
+ 
+ 
+- Carpeta Validaciones
+  * En este archivo .js se realizan las validaciones necesarias para que la galeria conste con 5 imagenes aleatorias.
+  <img width="617" alt="Screen Shot 2019-11-19 at 12 32 17" src="https://user-images.githubusercontent.com/11546674/69185192-44202500-0ae4-11ea-8df0-695b94b14d39.png">
+  
+# Resultados
+ <img width="1627" alt="Screen Shot 2019-11-19 at 11 29 38" src="https://user-images.githubusercontent.com/11546674/69185212-4a160600-0ae4-11ea-8c8d-c0955bdd8674.png">
+<img width="1639" alt="Screen Shot 2019-11-19 at 11 29 12" src="https://user-images.githubusercontent.com/11546674/69185213-4aae9c80-0ae4-11ea-9911-0f8dd7bae1b6.png">
+  
+
 
