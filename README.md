@@ -44,5 +44,21 @@
 * Dentro de la subcarpeta imagenes se encuentran 10 imagenes que serviran para la galeria
 <img width="158" alt="Screen Shot 2019-11-19 at 11 43 38" src="https://user-images.githubusercontent.com/11546674/69176563-f3083500-0ad3-11ea-8591-e57ed67fd863.png">
 
-* 
+- Carpeta Index
+ * Aquí se encuentra la estructura de nuestra galería. 
+ 
+ 
+- Carpeta Css
+  * Dentro de esta carpeta se especifian los colores, detalles y formas que va a tener la página.
+ 
+ 
+ 
+ 
+ 
+- Carpeta Validaciones
+  * En este archivo .js se realizan las validaciones necesarias para que la galeria conste con 5 imagenes aleatorias.
+  
+  
+  
+
 
