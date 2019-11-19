@@ -9,16 +9,11 @@
 
 - Carpeta index
    * La carpeta index es donde se almacena la pagina en si, es decir su estructura. 
-   
-   
-   
-   * Como se puede observar en la imagen superior, existen 2 archivos, el primero llamado formulario.html y el segundo validacio.php.
-   
-   
-   
-   
-   
+   Como se puede observar en la imagen inferior, existen 2 archivos, el primero llamado formulario.html y el segundo validacio.php.
+   <img width="187" alt="Screen Shot 2019-11-19 at 13 57 52" src="https://user-images.githubusercontent.com/11546674/69177231-20091780-0ad5-11ea-86e7-6d7b9d60c85e.png">
+    
    * Dentro del archivo html se declara un form que contiene toda la información necesaria
+   
    
 
 - Galería  
