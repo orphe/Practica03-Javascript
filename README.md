@@ -17,11 +17,8 @@
    <img width="1017" alt="Screen Shot 2019-11-19 at 11 42 57" src="https://user-images.githubusercontent.com/11546674/69177261-2c8d7000-0ad5-11ea-8951-b7476b3c9edd.png">
    
 - Carpeta Diseño 
-  * Como su nombre lo indica, la carpeta diseño es donde se almacena todos los estilos, diseños y decoraciones de la página.
+  * Como su nombre lo indica, la carpeta diseño es donde se almacena todos los estilos, diseños y decoraciones de la página. 
   
-  
-
-
 
 
 - Carpeta Validación
