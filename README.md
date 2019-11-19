@@ -19,13 +19,14 @@
 - Carpeta Diseño 
   * Como su nombre lo indica, la carpeta diseño es donde se almacena todos los estilos, diseños y decoraciones de la página. 
   
-
+  <img width="544" alt="Screen Shot 2019-11-19 at 13 58 18" src="https://user-images.githubusercontent.com/11546674/69178485-af172f00-0ad7-11ea-84b9-539dc49ef1c5.png">
 
 - Carpeta Validación
   * En esta carpeta se encuentran los archivos .js, es decir los archivos javascript que se encargan de hacer las validaciones pertinentes para el correcto funcionamiento de la página, en nuestro caso, que se cumplan las validaciones del formulario de registro.
  
 <img width="733" alt="Screen Shot 2019-11-19 at 11 43 17" src="https://user-images.githubusercontent.com/11546674/69178131-fe109480-0ad6-11ea-90cb-ddd62421a168.png">
-
+# Resultados
+ * A continuación se muestran unas imagenes con los resultados finales de la página.
 
 
 
