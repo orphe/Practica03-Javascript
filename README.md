@@ -61,7 +61,8 @@
   <img width="617" alt="Screen Shot 2019-11-19 at 12 32 17" src="https://user-images.githubusercontent.com/11546674/69185192-44202500-0ae4-11ea-8df0-695b94b14d39.png">
   
 # Resultados
- 
+ <img width="1627" alt="Screen Shot 2019-11-19 at 11 29 38" src="https://user-images.githubusercontent.com/11546674/69185212-4a160600-0ae4-11ea-8c8d-c0955bdd8674.png">
+<img width="1639" alt="Screen Shot 2019-11-19 at 11 29 12" src="https://user-images.githubusercontent.com/11546674/69185213-4aae9c80-0ae4-11ea-9911-0f8dd7bae1b6.png">
   
 
 
